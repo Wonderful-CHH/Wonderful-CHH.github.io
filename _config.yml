@@ -2,7 +2,7 @@
 title: Che Haohong
 position: Graduate Student
 affiliation: School of Information Science and Engineering, Southeast University.
-email: Haohong_Che (at) seu.edu.cn
+email: Haohong_Che@seu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -20,7 +20,7 @@ twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/photo.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
